@@ -54,15 +54,15 @@ interests:
 education:
   - area: Doctoral Student in Mathematics
     institution: Aalto University
-    date_start: 2023-06-01
+    date_start: 2023-08-01
     date_end:
     summary: |
   - area: MSc Applied Mathematics
-    institution: Massachusetts Institute of Technology
+    institution: Aalto University
     date_start: 2021-09-01
-    date_end: 2023-06-01
+    date_end: 2023-07-31
     summary: |
-      GPA: 4.5/5.0
+      GPA: 4.6/5.0
       Thesis on _Problems around Stanley-Wilf limits of Permutation_. Supervised by [Prof Parinya Chalermsook](https://sites.google.com/site/parinyachalermsook/).
     button:
       text: 'Read Thesis'
@@ -73,8 +73,8 @@ education:
     date_end: 2021-07-31
     summary: |
     
-work:
-  - position: Doctoral Student in Mathematics
+#work:
+#  - position: Doctoral Student in Mathematics
     company_name: Aalto University
     company_url: ''
     company_logo: ''
@@ -89,7 +89,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Maccaulay
+      - name: Macaulay2
         description: ''
         percent: 80
         icon: code-bracket
@@ -108,7 +108,8 @@ skills:
       - name: Knitting
         description: ''
         percent: 60
-        icon: cat
+      - name: Chess
+      - name: Bouldering
 
 languages:
   - name: English
