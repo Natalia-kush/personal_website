@@ -75,14 +75,14 @@ education:
     
 #work:
 #  - position: Doctoral Student in Mathematics
-    company_name: Aalto University
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-07-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Head TA on courses: Matrix Algebra, Computational Algebraic Geometry
+#    company_name: Aalto University
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2023-07-01
+#    date_end: ''
+#    summary: |2-
+#      Responsibilities include:
+#      - Head TA on courses: Matrix Algebra, Computational Algebraic Geometry
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -123,7 +123,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+#awards:
   
 ---
 
