@@ -93,7 +93,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Julia
+      - name: MatLab
         description: ''
         percent: 60
         icon: chart-bar
@@ -109,21 +109,21 @@ skills:
         description: ''
         percent: 60
       - name: Chess
-      - name: Bouldering
+      - name: Yoga
 
 languages:
   - name: English
     percent: 80
-  - name: Russiam
+  - name: Russian
     percent: 100
   - name: Finnish
-    percent: 10
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
+# awards:
   
 ---
 
