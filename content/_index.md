@@ -43,7 +43,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: 
+  - block: markdown
     id: experience
     content:
       title: Experience
