@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Nataliia"
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -43,15 +43,6 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: resume-experience
-    content:
-      # The user's folder name in `content/authors/`
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
   - block: collection
     id: papers
     content:
@@ -102,4 +93,25 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: resume-experience
+    id: experience
+    content:
+      # The user's folder name in `content/authors/`
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
+
 ---
