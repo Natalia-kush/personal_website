@@ -96,6 +96,7 @@ sections:
   - block: resume-experience
     id: experience
     content:
+      title: Experience
       # The user's folder name in `content/authors/`
       username: admin
     design:
