@@ -130,6 +130,6 @@ languages:
 I started my PhD in August 2023.
 I work in the field of Algebraic Statistics under the supervision of [Prof. Kaie Kubjas](https://www.kaiekubjas.com) at the Department of Mathematics and System          Analysis. 
  
-Please reach out to collaborate, my email is nataliia [dot] kushnerchuk [at] aalto [dot] fi !
+Reach out to collaborate, my email is nataliia [dot] kushnerchuk [at] aalto [dot] fi !
 
 
