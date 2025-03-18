@@ -129,9 +129,7 @@ languages:
 # Hello!
 I started my PhD in August 2023.
 I work in the field of Algebraic Statistics under the supervision of [Prof. Kaie Kubjas](https://www.kaiekubjas.com) at the Department of Mathematics and System          Analysis. 
-
-My research interests are algebraic geometry, combinatorics and their applications to statistics. 
-        
-Please reach out to collaborate!
+ 
+Please reach out to collaborate, my email is nataliia [dot] kushnerchuk [at] aalto [dot] fi !
 
 
