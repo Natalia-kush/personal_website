@@ -16,7 +16,7 @@ summary: I will give a talk at the mini-symposium "Graphical Models for Stochast
 abstract: 'Discrete Lyapunov models are used for the study of multivariate time series data. The process is defined by a directed weighted graph, that depicts dependencies of variables as edges. Assuming that variables are non-gaussian, we use higher order cumulants to study the model identifiability question. Our approach is to use algebraic methods. In this talk we will discuss the parameter identifiability of certain classes of graphs, and the graph identifiability using characterization of the second, third, and higher order cumulants.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2030-06-01T13:00:00Z'
+date: '2025-07-11'
 #date_end: '2030-06-01T15:00:00Z'
 #all_day: false
 
