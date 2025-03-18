@@ -35,8 +35,8 @@ profiles:
 #    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/recurlse
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/recurlse
 #  - icon: brands/github
 #    url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -127,5 +127,4 @@ languages:
   
 ---
 
-## About Me
 

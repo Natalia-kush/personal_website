@@ -40,7 +40,7 @@ sections:
 
         My research interests are algebraic geometry, combinatorics and their applications to statistics. 
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate!
     design:
       columns: '1'
   - block: collection
@@ -114,5 +114,4 @@ sections:
     content:
       title: Languages
       username: admin
-
 ---
