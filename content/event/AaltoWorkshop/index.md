@@ -12,7 +12,7 @@ location: Helsinki, Finland
 #  postcode: '94305'
 #  country: United States
 
-summary: On the first day of the Workshop I will give an introduction talk "What is a graphical model?".  
+summary: On the first day of the Workshop I gave an introduction talk "What is a graphical model?".  
 abstract: 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
