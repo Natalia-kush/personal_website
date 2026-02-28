@@ -6,8 +6,6 @@ event_url: https://math.aalto.fi/en/research/discrete/seminars/agc/
 
 share: false
 
-show_meta: false
-
 location: Espoo, Finland
 #address:
 #  street: 450 Serra Mall
@@ -20,12 +18,12 @@ summary: I am giving a 45-minutes talk "What is a graphical model?"
 abstract: This is an overview presentation about graphical models. We'll explore the definitions and key properties of graphical models. We'll discuss them from the perspective of algebra, geometry, and combinatorics through several examples. Everyone is welcome!
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-04-01T10:00:00Z'
+date: '2026-03-02'
 #date_end: '2030-06-01T15:00:00Z'
-#all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-31T00:00:00Z'
+#publishDate: '2025-03-31T00:00:00Z'
 
 authors:
   - admin
