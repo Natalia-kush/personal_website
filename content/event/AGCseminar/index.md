@@ -1,8 +1,8 @@
 ---
 title: Aalto AGC seminar
 
-event: [AGC seminar](https://math.aalto.fi/en/research/discrete/seminars/agc/){:target="_blank"}
-#event_url: https://math.aalto.fi/en/research/discrete/seminars/agc/
+event: AGC seminar
+event_url: https://math.aalto.fi/en/research/discrete/seminars/agc/
 
 share: false
 
