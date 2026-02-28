@@ -1,8 +1,8 @@
 ---
 title: Aalto AGC seminar
 
-event: AGC seminar at Aalto University
-event_url: https://math.aalto.fi/en/research/discrete/seminars/agc/
+event: [AGC seminar](https://math.aalto.fi/en/research/discrete/seminars/agc/){:target="_blank"}
+#event_url: https://math.aalto.fi/en/research/discrete/seminars/agc/
 
 share: false
 
@@ -14,7 +14,7 @@ location: Espoo, Finland
 #  postcode: '94305'
 #  country: United States
 
-summary: I am giving a 45-minutes talk "What is a graphical model?" at the [AGC seminar](https://math.aalto.fi/en/research/discrete/seminars/agc/){:target="_blank"}.
+summary: I am giving a 45-minutes talk "What is a graphical model?"
 abstract: This is an overview presentation about graphical models. We'll explore the definitions and key properties of graphical models. We'll discuss them from the perspective of algebra, geometry, and combinatorics through several examples. Everyone is welcome!
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
