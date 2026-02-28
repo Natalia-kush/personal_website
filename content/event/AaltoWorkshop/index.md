@@ -4,6 +4,8 @@ title: Algebraic Statistics Workshop
 event: Algebraic Statistics and the Study of Multistate Models Workshop
 event_url: https://www.kaiekubjas.com/algstatmsm/
 
+share: false
+
 location: Helsinki, Finland
 #address:
 #  street: 450 Serra Mall
