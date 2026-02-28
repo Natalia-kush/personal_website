@@ -18,9 +18,9 @@ summary: I am giving a 45-minutes talk "What is a graphical model?"
 abstract: This is an overview presentation about graphical models. We'll explore the definitions and key properties of graphical models. We'll discuss them from the perspective of algebra, geometry, and combinatorics through several examples. Everyone is welcome!
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-02'
+date: '2026-03-02T14:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2025-03-31T00:00:00Z'
