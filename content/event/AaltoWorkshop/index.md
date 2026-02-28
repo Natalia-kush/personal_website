@@ -6,6 +6,10 @@ event_url: https://www.kaiekubjas.com/algstatmsm/
 
 share: false
 
+reading_time: false
+
+show_lastmod: false
+
 location: Helsinki, Finland
 #address:
 #  street: 450 Serra Mall
