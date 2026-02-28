@@ -4,7 +4,7 @@ title: SIAM AG 2025
 event: SIAM Conference in Algebraic Geometry
 event_url: https://www.siam.org/conferences-events/siam-conferences/ag25/
 
-sharing: false
+share: false
 
 location: Madison, Wisconsin
 #address:
