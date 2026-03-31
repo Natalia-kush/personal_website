@@ -25,8 +25,7 @@ date: '2025-07-11'
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-03-18T00:00:00Z'
 
-authors:
-  - admin
+authors: []
 
 tags: []
 

@@ -5,6 +5,8 @@ draft: false
 
 share: false
 
+authors: []
+
 show_meta: false
 ---
 

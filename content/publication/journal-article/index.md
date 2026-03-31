@@ -1,9 +1,9 @@
 ---
 title: "Matroid Stratification of ML Degrees of Independence Models"
 authors:
-- admin
 - Oliver Clarke
 - Serkan Hoşten
+- admin
 - Janike Oldekop
 author_notes:
 - "Equal contribution"

@@ -6,8 +6,6 @@ event_url: https://www.kaiekubjas.com/algstatmsm/
 
 share: false
 
-show_meta: false
-
 location: Helsinki, Finland
 #address:
 #  street: 450 Serra Mall
@@ -27,8 +25,7 @@ date: '2025-04-01T10:00:00Z'
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-03-31T00:00:00Z'
 
-authors:
-  - admin
+authors: []
 
 tags: []
 
