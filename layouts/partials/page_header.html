@@ -1,0 +1,11 @@
+{{/* Custom header without reading time */}}
+
+<header class="article-header">
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Date }}
+    <div>
+      {{ .Format "Jan 2, 2006" }}
+    </div>
+  {{ end }}
+</header>
