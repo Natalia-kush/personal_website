@@ -27,7 +27,7 @@ publishDate: "2026-01-30T00:00:00Z"
 publication_types: [ "article" ]
 
 # Publication name and optional abbreviated publication name.
-#publication: "preprint"
+publication: "preprint"
 #publication_short: ""
 share: false
 
